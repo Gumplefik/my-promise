@@ -1,0 +1,19 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha src/tests/test.js"
+  },
+  "keywords": [],
+  "author": "gumplefik",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mocha": "^8.2.0",
+    "mochawesome": "^6.1.1"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1"
+  }
+}
